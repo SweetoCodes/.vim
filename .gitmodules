@@ -1,0 +1,12 @@
+[submodule "pack/github-copilot/start/copilot.vim"]
+	path = pack/github-copilot/start/copilot.vim
+	url = https://github.com/github/copilot.vim
+[submodule "pack/syntax-highlighting/start/ale"]
+	path = pack/syntax-highlighting/start/ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule "pack/navigation/start/nerdtree"]
+	path = pack/navigation/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/themes/start/vim-code-dark"]
+	path = pack/themes/start/vim-code-dark
+	url = https://github.com/tomasiser/vim-code-dark
